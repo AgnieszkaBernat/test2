@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 500px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    background-image: linear-gradient(to top, #e6e 0%, #eef1f5 100%);
+}
